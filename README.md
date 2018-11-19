@@ -2,4 +2,6 @@
 
 My submission for Ludum Dare #39.
 
-The only requirement is iTween plugin (available in Unity Asset Store).
+https://ldjam.com/events/ludum-dare/39/run-and-slash
+
+The only requirement is iTween plugin (available at Unity Asset Store).
